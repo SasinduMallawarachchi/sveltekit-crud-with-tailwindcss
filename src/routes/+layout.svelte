@@ -51,6 +51,7 @@
     });
 </script>
 
+
 <div class="relative flex h-screen text-black max-h-1000 bg-gradient-to-r from-cyan-100 to-blue-100">
     <slot/>
 </div>
